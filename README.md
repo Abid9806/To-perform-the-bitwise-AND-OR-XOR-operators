@@ -1,2 +1,2 @@
 # Mohammed-Abid-Ali
-New repository my purpose to make project and for other basis
+It's a basic program that help us to learn the syntax of C language
