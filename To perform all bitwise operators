@@ -1,0 +1,16 @@
+#include <stdio.h>
+int main() {
+    int a=12,b=25,c;
+
+    c=a&b;
+    printf("output=%d",c);
+
+    c=a|b;
+    printf("output=%d",c);
+
+    c==a^b;
+    printf("output=%d",c);
+    return 0;
+}   
+
+
