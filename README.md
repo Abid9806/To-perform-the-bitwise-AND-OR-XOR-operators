@@ -1,2 +1,2 @@
-# Mohammed-Abid-Ali
-It's a basic program that help us to learn the syntax of C language
+# To perform the bitwise 'AND','OR' and 'XOR' operators
+To perform the bitwise operators by using c language
